@@ -1,0 +1,6 @@
+vl_6180.c:18:6:VL6180_setRegister	40	static
+vl_6180.c:33:6:VL6180_setRegister16bit	40	static
+vl_6180.c:47:9:VL6180_getRegister	40	static
+vl_6180.c:64:10:VL6180_getRegister16bit	40	static
+vl_6180.c:81:9:VL6180_GetDistance	32	static
+vl_6180.c:95:8:init_vl6180	8	static
