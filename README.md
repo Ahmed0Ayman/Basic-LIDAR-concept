@@ -1,4 +1,7 @@
 # VL6180-for-fun-application
+Vl6180 sensor is based on LIDAR technology where we can generate a very accurate distance that distance measure according to the speed of light so this feature is call TOF or you can say time of flight 
+LIDAR is used in mobile applications and 3D printer but currently due to the increase demand on the fully autonomous vehicle the problem that we need sensor to generate very accurate distance and map for the road but  we  can think that we have cameras with high resolutions to use so what is the problem .the problem is that cameras can work with high or low light so from safety point of view this is not acceptable we can use camera to parking but not to autonomous driving and high resolution camera means high end processors  this will interpreter as increasing of the price and this is not acceptable  from customer or OEMs so the LIDAR came to solve this problem  low cost accurate but with little problem is the number of pixels is not as in cameras so what can do …… of course combine the to measurements to obtain what we are looking  more pixels with accuracy so this technology become widely used in automotive  nowadays after that little intro about TOF technology that what I’ve been made in this project but with this tiny sensor only one sender and one receiver we can detect the distance of objects and in this project the idea is generate sin wave with frequency proportional with the distance 
+I wanna think you for your time , my advice to you if you reach to the end of that article keep reading as you can . 
 
-
+this is the link of the funny app if you wanted to show what happen 
 https://youtu.be/m-7w7lk_gwY
